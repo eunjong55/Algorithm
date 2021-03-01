@@ -11,3 +11,4 @@ programmers_42895 - DP, using set
 2580 - backtracking
 10844 - DP, watch out for overflow
 2110 - binary search
+11054 - DP, binary search, LIS
