@@ -15,3 +15,4 @@ programmers_42895 - DP, using set
 2565 - DP, binary search, LIS
 1920 - binary search
 1712 - using math
+9251 - DP
