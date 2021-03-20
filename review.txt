@@ -15,8 +15,5 @@ programmers_42895 - DP, using set
 2565 - DP, binary search, LIS
 1920 - binary search
 1712 - using math
-9251 - DP
-1234 - 
-5678 - 
-restart
-1912 - DP
+9251 - DP, LCS
+1912 - DP, watch out for initial case
