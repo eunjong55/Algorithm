@@ -17,3 +17,4 @@ programmers_42895 - DP, using set
 1712 - using math
 9251 - DP, LCS
 1912 - DP, watch out for initial case
+1260 - DFS, BFS
