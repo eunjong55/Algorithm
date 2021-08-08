@@ -25,3 +25,4 @@ Programmars_정수 삼각형 - DP
 programmars_숫자문자열과영단어 - String, Map
 programmars_거리두기확인하기 - dfs, bfs
 programmar_표편집 - stack (효율성 7, 9, 10) 실패
+programmar_표편집(1) - linked list 활용, 성공
